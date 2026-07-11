@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Cortex Prime Solo-Play Reports
 ---
